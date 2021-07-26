@@ -28,7 +28,7 @@
   
   ## 💻 My Favorite Projects
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiebeBaree&repo=Coinz&theme=react)](https://github.com/SiebeBaree/Coinz)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aqua-Solutions2&repo=Coinz&theme=react)](https://github.com/SiebeBaree/Coinz)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiebeBaree&repo=Big-Ben&theme=react)](https://github.com/SiebeBaree/Big-Ben)
 </div>
 
