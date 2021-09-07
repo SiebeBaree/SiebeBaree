@@ -3,8 +3,10 @@
   <h1>Hi there, I'm Siebe 👋</h1>
 
   My name is Siebe. I live in Limburg, Belgium. I am a student at PXL. </br>
-  Python is my favorite programming language, but I like to learn as many languages as possible.  </br>
-  If you have any projects for me, do not hesitate to contact me in any way.  </br>
+  Python & JavaScript are my favorite programming languages, but I like to learn as many languages as possible. </br>
+  If you have any projects for me, do not hesitate to contact me in any way. </br>
+  
+  [![](https://discord.c99.nl/widget/theme-3/643072638075273248.png)](https://discord.gg/z8QruwM3qz)
 
   ## 🛠 Languages & Tools
   
@@ -28,7 +30,7 @@
   
   ## 💻 My Favorite Projects
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aqua-Solutions2&repo=Coinz&theme=react)](https://github.com/SiebeBaree/Coinz)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiebeBaree&repo=Coinz&theme=react)](https://github.com/SiebeBaree/Coinz)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiebeBaree&repo=Big-Ben&theme=react)](https://github.com/SiebeBaree/Big-Ben)
 </div>
 
