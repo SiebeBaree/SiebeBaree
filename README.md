@@ -25,7 +25,7 @@
 
   ## 📊 My Statistics
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiebeBaree&langs_count=3&theme=react&layout=compact)](https://github.com/SiebeBaree) </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiebeBaree&langs_count=5&theme=react&layout=compact)](https://github.com/SiebeBaree) </br>
   [![Siebe Baree's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiebeBaree&show_icons=true&hide=prs,contribs&theme=react)](https://github.com/SiebeBaree)
   
   ## 💻 My Favorite Projects
