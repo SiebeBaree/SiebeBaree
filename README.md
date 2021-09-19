@@ -13,6 +13,7 @@
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=61D9FA&labelColor=20232A&color=3672A5)
+  ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   </br>
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=61D9FA&labelColor=20232A&color=3672A5)
