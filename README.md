@@ -5,8 +5,6 @@
   My name is Siebe. I live in Limburg, Belgium. I am a student at PXL. </br>
   Python & JavaScript are my favorite programming languages, but I like to learn as many languages as possible. </br>
   If you have any projects for me, do not hesitate to contact me in any way. </br>
-  
-  [![](https://discord.c99.nl/widget/theme-3/643072638075273248.png)](https://discord.gg/z8QruwM3qz)
 
   ## 🛠 Languages & Tools
   
