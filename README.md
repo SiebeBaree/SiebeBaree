@@ -8,6 +8,10 @@
 
   ## 🛠 Languages & Tools
   
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=61D9FA&labelColor=20232A&color=3672A5)
+  ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=61D9FA&labelColor=20232A&color=3672A5)
+  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=61D9FA&labelColor=20232A&color=3672A5)
+  </br>
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=61D9FA&labelColor=20232A&color=3672A5)
@@ -18,7 +22,6 @@
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=61D9FA&labelColor=20232A&color=3672A5)
-  ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=61D9FA&labelColor=20232A&color=3672A5)
   ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=61D9FA&labelColor=20232A&color=3672A5)
 
 
