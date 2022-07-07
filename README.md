@@ -24,7 +24,7 @@
 
 
   ## 📊 Statistics
-
-  [![Siebe Baree's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiebeBaree&show_icons=true&hide=prs,contribs&theme=react)](https://github.com/SiebeBaree)
+  [![Siebe Baree's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=SiebeBaree&theme=react&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
 
