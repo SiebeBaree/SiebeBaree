@@ -2,9 +2,11 @@
 
   <h1>Hi there, I'm Siebe <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30"></h1>
 
-  My name is Siebe. I live in Limburg, Belgium. I am a student at PXL. </br>
-  I'm currently working on some projects to improve my programming skills. </br>
-  My favorite programming languages are JavaScript, TypeScript & Dart </br>
+  👋 Hi, I'm Siebe! I'm currently living in Limburg, Belgium, and studying at PXL. As a passionate developer, I'm always working on exciting projects to improve my programming skills and broaden my expertise.
+
+  💻 My top programming languages are JavaScript, TypeScript, and Dart, and I enjoy exploring new technologies and frameworks to create impactful solutions.
+
+  Feel free to check out my work and connect with me! 😄
 
   ## 🛠 Languages, Tools & Frameworks
 
