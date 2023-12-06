@@ -33,11 +33,7 @@ Feel free to check out my work and connect with me! 😄
 ![](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2497EE?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Flutter-31B9F6?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-01589D?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFC927?style=for-the-badge&logo=firebase&logoColor=2B3A4B)
 ![](https://img.shields.io/badge/Bun-0B0A0A?style=for-the-badge&logo=bun&logoColor=white)
-![](https://img.shields.io/badge/Stripe-645BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-2F6892?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Skills that I want to learn in 2024
@@ -45,6 +41,7 @@ Feel free to check out my work and connect with me! 😄
 ![](https://img.shields.io/badge/AI-75AC9D?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![](https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=1F88FF)
+![](https://img.shields.io/badge/Stripe-645BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 
 ## 📊 Statistics
