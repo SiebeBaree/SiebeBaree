@@ -78,4 +78,6 @@ Feel free to check out my work and connect with me! 😄
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiebeBaree&theme=react)
 
+![Metrics](/github-metrics.svg)
+
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSiebeBaree1212%2Fhit-counter)
